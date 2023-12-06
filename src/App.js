@@ -8,7 +8,7 @@ export default function App() {
 
       <footer>
         <a
-          href="https://github.com/jennt55/wk5-react-weather-app"
+          href="https://github.com/jennt55/wk6-react-weather-app"
           target="_blank"
           rel="noopener noreferrer"
         >
